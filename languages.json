@@ -425,6 +425,12 @@
                 "dtsi"
             ]
         },
+        "Dhall":{
+            "base": "haskell",
+            "extensions":[
+                "dhall"
+            ]
+        },
         "DreamMaker":{
             "name":"Dream Maker",
             "base":"c",
